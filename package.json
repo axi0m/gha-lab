@@ -1,5 +1,22 @@
 {
+  "name": "gha-lab",
+  "version": "1.0.0",
+  "description": "A dummy project to test GitHub Actions",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axi0m/gha-lab.git"
+  },
+  "author": "axi0m",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/axi0m/gha-lab/issues"
+  },
+  "homepage": "https://github.com/axi0m/gha-lab#readme",
   "dependencies": {
-    "react": "^18.3.1"
+    "express": "^4.19.2"
   }
 }
